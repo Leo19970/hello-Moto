@@ -1,4 +1,4 @@
 # hello-Moto
 Welcome to motorola
 <br>
-Author - LITTON MANDAL
+Author - LITTON MAN
